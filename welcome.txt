@@ -1,3 +1,4 @@
 print("hi men")
 privet drug
 kak del
+12345
