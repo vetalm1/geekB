@@ -1,6 +1,6 @@
-print("hi men")
-privet drug
-kak del
-456
-Update
-12222222
+print("hi men;")
+privet drug;
+kak del;
+456;
+Update;
+12222222;
