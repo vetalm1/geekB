@@ -1,7 +1,9 @@
-print("hi men")
-privet drug
-kak del
-456
-Update
-Руддщ ьн пукд акшутв
-Рад видеть тебя
+print("hi men;")
+privet drug;
+kak del;
+456;
+Update;
+12222222;
+Руддщ ьн пукд акшутв;
+Рад видеть тебя;
+
